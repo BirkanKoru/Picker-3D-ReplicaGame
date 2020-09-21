@@ -1,0 +1,2 @@
+C:\Users\Birkan\Unity Projects\Demos\Picker 3D\obj\Debug\Assembly-CSharp.csprojAssemblyReference.cache
+C:\Users\Birkan\Unity Projects\Demos\Picker 3D\obj\Debug\Assembly-CSharp.csproj.CoreCompileInputs.cache
